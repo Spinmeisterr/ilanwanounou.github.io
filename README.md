@@ -2,7 +2,7 @@
 **Objectifs** :
 1. **Mettre en oeuvre les technologies web pour créer et héberger mon portfolio**
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/100px-Apache_NetBeans_Logo.svg.png) |![](https://img.flaticon.com/icons/png/512/174/174854.png?size=120x120f&pad=10,10,10,10&ext=png&bg=FFFFFFFF)| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/100px-CSS3_logo_and_wordmark.svg.png) | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/120px-Bootstrap_logo.svg.png) | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/300px-Git-logo.svg.png) | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/120px-Octicons-mark-github.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/100px-Apache_NetBeans_Logo.svg.png) |![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/langfr-120px-HTML5_logo_and_wordmark.svg.png)| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/100px-CSS3_logo_and_wordmark.svg.png) | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/120px-Bootstrap_logo.svg.png) | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/300px-Git-logo.svg.png) | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/120px-Octicons-mark-github.svg.png)
 |---------------|------ |-----|-----|-----|-----|
 - **NetBeans** : Environnement de développment intégré (IDE).
 - **HTML** :  Langage de description utlisé pour concevoir les pages web.
