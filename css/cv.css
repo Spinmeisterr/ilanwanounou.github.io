@@ -79,7 +79,9 @@ font-weight: 700; justify-content: space-between;}
 #langues .langue, #langues .niveau{ font-size: 1.3em; }
 #langues .langue { padding-top: 3px; }
 
-
+.bg-custom {
+    background-color: #1d6cc0 !important;
+}
 
 /******************************************
 * Compétences
