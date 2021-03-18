@@ -76,12 +76,8 @@ font-weight: 700; justify-content: space-between;}
 * Langues
 ******************************************/
 #langues .container { display: flex; flex-direction: row; justify-content: space-between; }
-#langues .langue, #langues .niveau{ font-size: 1.3em; }
-#langues .langue { padding-top: 3px; }
-
-.bg-custom {
-    background-color: #1d6cc0 !important;
-}
+#langues .langue, #langues .niveau{ font-size: 1em; }
+#langues .langue { padding-top: 3px; font-weight: bold;} 
 
 /******************************************
 * Compétences
@@ -102,3 +98,7 @@ font-weight: 700; justify-content: space-between;}
 * Passions
 ******************************************/
 #passions .container .libelle { font-size: 1.3em; }
+/**nav bar**/
+.bg-custom {
+    background-color: #1d6cc0 !important;
+}
