@@ -1,26 +1,22 @@
-
 h1 
-{ text-align: center;}
+{ text-align: center;
+padding-top: 15px;}
 
 img {
     width: 130px;
-   
     padding-bottom: 10px;
     padding-right: 15px;
     float: left;
    
 }
 .navbar {
-    background-color: #1d6cc0 !important;
+    background-color: #1d6cc0 ;
 }
-
-h1 {
-    padding-left: 10rem;
- }
- 
 .jumbotron p {
 
         padding-top: 15px;
 
 }
-        
+
+
+@media (min-width: 1500px) { .jumbotron { padding: 2rem 30rem; }     }              
