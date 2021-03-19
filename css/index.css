@@ -17,6 +17,11 @@ img {
         padding-top: 15px;
 
 }
+.jumbotron {
+        background-image: url("../images/Dev_img.jpg");
+        color: white;
 
 
-            
+}
+
+           

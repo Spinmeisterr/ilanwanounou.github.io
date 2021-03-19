@@ -1,0 +1,35 @@
+#contents {
+    padding: 10px;
+    border: 1px white solid;
+    width: 50%;
+    margin: auto;
+    margin-top: 40px; 
+    background-color: rgba(219, 206, 182, 0.781);
+    
+    
+}
+
+
+.bg-custom {
+    background-color: #1d6cc0 !important;
+}
+.jumbotron {
+    background-image: url("../images/Dev_img.jpg");
+}
+a {
+    opacity: 1;
+}
+
+.meContacter { clear: both; }
+.meContacter .details { width: 100%; margin-left: 10px; margin-top: 3px; font-size: 1.5em;
+                        font-weight: 700; justify-content: space-between;}
+.contact-icon {
+height: 32px; width: 32px; margin: 2px 0; }
+.meContacter a, .meContacter a:hover { text-decoration: none; color: white; }
+
+
+
+
+#copyright{
+        color: black;
+}
