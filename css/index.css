@@ -18,7 +18,7 @@ img {
 
 }
 .jumbotron {
-        background-image: url("../images/Dev_img.jpg");
+        background-image: url("/images/Dev_img.jpg");
         color: white;
 
 
